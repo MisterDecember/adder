@@ -83,10 +83,11 @@ print() # line ending
 
 def function(n = 1):
     print(n)
-    
+print('this is a simple function')    
 function()
 print()
 
+print('This is more advanced function... one that displays all prime numbers up to 1,000')
 # if isprime(primeno) :
 #     print(f'{primeno} is prime')
 # else :
